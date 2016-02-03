@@ -1,0 +1,6 @@
+# Binary Object Files
+*.o
+*.out
+*.exe
+
+minmud
